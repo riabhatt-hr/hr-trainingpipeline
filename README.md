@@ -1,20 +1,3 @@
-Conversation opened. 1 read message.
-
-Skip to content
-Using CHITKARA UNIVERSITY Mail with screen readers
-
-2 of 436
-Github
-Inbox
-
-Harmeet Singh Ahluwalia <harmeet1525.mba25hr@chitkara.edu.in>
-Attachments
-Mar 31, 2026, 9:05 PM (12 hours ago)
-to aakanksha1501.mba25hr, me, vishakha1568.mba25hr
-
-Github!
- 9 Attachments
-  •  Scanned by Gmail Security Sandbox
 # SkillSync — Automated Employee Training Progress Tracking & Skill Gap Analysis
 
 An automated HR training pipeline built using **n8n** and **Power BI** that eliminates
